@@ -8,7 +8,7 @@ We got tired of waiting and started fixing things ourselves.
 
 ## Tools
 
-**[EagleBOM](https://github.com/NoABS-Eagle/EagleBOM)** — BOM manager that actually manages. Inline editing, attribute import from warehouse CSV, assembly variants, merge duplicate groups, exports an Eagle script that writes changes back into the schematic. Works in the browser, no install.
+**[EagleBOM](https://github.com/NoABS-Eagle/EagleBOM)** — BOM manager that actually manages, not just another spreadsheet. 
 
 **[EagleLogo](https://github.com/NoABS-Eagle/EagleLogo)** — Proper image import for Eagle with vectorization and polygon cutout support. Because apparently nobody at Autodesk ever needed to put a logo on a PCB.
 
