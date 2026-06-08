@@ -4,6 +4,7 @@ Autodesk bought Eagle in 2016 and did nothing with it. No meaningful updates, no
 
 We got tired of waiting and started fixing things ourselves.
 
+Please check the [Demo repository](https://github.com/NoABS-Eagle/Demo) to quickly understand what's inside.
 ---
 
 ## Tools
@@ -15,6 +16,8 @@ We got tired of waiting and started fixing things ourselves.
 **[EagleLibs](https://github.com/NoABS-Eagle/EagleLibs)** — A sane component library with real 3D model support. Maintained, consistent, actually useful.
 
 **[Eagle3D](https://github.com/NoABS-Eagle/Eagle3D)** — Fast local 3D board export, and a utility for adding 3D model support to existing Eagle libraries.
+
+**[EagleWorks](https://github.com/NoABS-Eagle/EagleWorks)** - A set of helping scripts that fixes old Eagle problems and makes the whole process much easier.
 
 ---
 
