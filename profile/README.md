@@ -6,6 +6,9 @@ We got tired of waiting and started fixing things ourselves.
 
 Please check the [Demo repository](https://github.com/NoABS-Eagle/Demo) to quickly understand what's inside.
 
+> [!WARNING]
+> I tried spreading the word through REDDIT, but it appeared to be a dumpster that shadow-bans users, which I found out accidentally. We can't trust it. So if any questions - contact me directly through issues in repositories.
+
 ---
 
 ## Tools
